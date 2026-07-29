@@ -1,7 +1,5 @@
-yfinance
-pandas
-numpy
-xgboost
-requests
-ta
-flask
+flask==3.0.3
+requests==2.32.3
+pandas==2.2.2
+numpy==2.1.0
+gunicorn==22.0.0
